@@ -1,0 +1,5 @@
+group,model,support,attack_type_count,pooled_recall,macro_type_recall
+Seen attack types,Random Forest,9083,20,0.7698998128371684,0.5764846848796683
+Seen attack types,Isolation Forest,9083,20,0.6436199493559397,0.37424078588166143
+Unseen attack types,Random Forest,3750,17,0.2248,0.22556385688809263
+Unseen attack types,Isolation Forest,3750,17,0.5282666666666667,0.23404626371427686

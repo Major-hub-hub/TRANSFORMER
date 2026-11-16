@@ -1,0 +1,11 @@
+category,support,model,metric,value
+Normal,9711,Random Forest,specificity,0.9731232622798888
+Normal,9711,Isolation Forest,specificity,0.9822881268664401
+DoS,7458,Random Forest,attack_recall,0.7815768302493966
+DoS,7458,Isolation Forest,attack_recall,0.7597211048538483
+Probe,2421,Random Forest,attack_recall,0.7534076827757125
+Probe,2421,Isolation Forest,attack_recall,0.8372573316811235
+R2L,2887,Random Forest,attack_recall,0.05992379632836855
+R2L,2887,Isolation Forest,attack_recall,0.04225839972289574
+U2R,67,Random Forest,attack_recall,0.14925373134328357
+U2R,67,Isolation Forest,attack_recall,0.1791044776119403
